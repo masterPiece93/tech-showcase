@@ -1,0 +1,15 @@
+.notes{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.notes > section {
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    border: 1px solid black;
+}
+.contenttab{
+    border: 1px solid black;
+}
